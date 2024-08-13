@@ -1,6 +1,7 @@
 #my
 .idea
 out
+*.iml
 
 # Prerequisites
 *.d
